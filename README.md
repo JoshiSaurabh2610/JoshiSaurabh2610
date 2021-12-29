@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Techies Code" | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Techies Code | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Techies_Code" | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Techies_Code" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -30,5 +30,5 @@
 ▶️ [more videos...](https://youtube.com/c/techiesCode)
 
 ---
-[youtube]: https://youtube.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[youtube]: https://youtube.com/c/techiesCode
+[linkedin]: https://www.linkedin.com/in/saurabh-joshi-835098180/
