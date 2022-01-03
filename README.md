@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Find the Duplicate &lpar;Bit Masking Approach&rpar; | LeetCode | Interview Preparation Array | Techies Code](https://www.youtube.com/watch?v=N3lbxq97yXs)
 - [Find the Duplicate | LeetCode | Interview Preparation Array | Techies Code |](https://www.youtube.com/watch?v=axb345-PXwk)
 - [Run C++ Code in Sublime Text | Sublime Text Setup | Techies Code](https://www.youtube.com/watch?v=RxZUr3osr1w)
 - [Minimize the maximum difference between the heights | Greedy Algorithm | Interview Preparation](https://www.youtube.com/watch?v=ZScoWGnvcv0)
 - [Maximum XOR value of a pair from a range | BitMasking Interview Question](https://www.youtube.com/watch?v=wFuMDWF3ewc)
-- [Copy List with Random Pointer | LeetCode | Interview Preparation | Linked List + Hashmap](https://www.youtube.com/watch?v=3mh-nmwmr9w)
 <!-- YOUTUBE:END -->
 
 ▶️ [more videos...](https://youtube.com/c/techiesCode)
