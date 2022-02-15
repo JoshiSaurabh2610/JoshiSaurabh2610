@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Gas Station | 134 LeetCode | Explanation, Intuition, Code | Greedy C++](https://www.youtube.com/watch?v=eV45Y2vwy2w)
 - [Find the Duplicate &lpar;Bit Masking Approach&rpar; | LeetCode | Interview Preparation Array | Techies Code](https://www.youtube.com/watch?v=N3lbxq97yXs)
 - [Find the Duplicate | LeetCode | Interview Preparation Array | Techies Code |](https://www.youtube.com/watch?v=axb345-PXwk)
 - [Run C++ Code in Sublime Text | Sublime Text Setup | Techies Code](https://www.youtube.com/watch?v=RxZUr3osr1w)
 - [Minimize the maximum difference between the heights | Greedy Algorithm | Interview Preparation](https://www.youtube.com/watch?v=ZScoWGnvcv0)
-- [Maximum XOR value of a pair from a range | BitMasking Interview Question](https://www.youtube.com/watch?v=wFuMDWF3ewc)
 <!-- YOUTUBE:END -->
 
 ▶️ [more videos...](https://youtube.com/c/techiesCode)
